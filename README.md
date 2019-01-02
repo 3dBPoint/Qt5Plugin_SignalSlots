@@ -1,0 +1,2 @@
+# Qt5Plugin_SignalSlots
+Qt5插件使用信号槽机制通信
